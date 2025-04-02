@@ -3,6 +3,7 @@
 ## Preview
 
 - The Smart Irrigation Control project with Arduino aims to save water when watering plants. By using sensors to monitor soil moisture, the system only activates irrigation when necessary, preventing waste. This not only conserves water resources but also improves plant care and contributes to sustainability, making it an accessible solution for both large agricultural areas and urban gardens and vegetable patches.
+##
 
 ## Components
 
