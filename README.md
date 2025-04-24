@@ -1,11 +1,14 @@
-## 🌊 This project is an intelligent control of an irrigation monitoring system made through Arduino prototyping during the IoT module at the university.
-
-### Preview
+# 🌊 IrrigationSystem
 
 - The Smart Irrigation Control project with Arduino aims to save water when watering plants. By using sensors to monitor soil moisture, the system only activates irrigation when necessary, preventing waste. This not only conserves water resources but also improves plant care and contributes to sustainability, making it an accessible solution for both large agricultural areas and urban gardens and vegetable patches.
-##
 
-### Components
+## 💡 Modules Overview 
+
+- Tinkercad
+- C++
+- Arduino IDE (optional)
+
+## 🧩 Components
 
 - Arduino Uno R3: Controls the entire system, processing data and activating the devices.
 
@@ -24,7 +27,15 @@
 -  Resistors: Protect the components and ensure the proper functioning of the circuit.
 
 -  Small Breadboard: Used to connect all the components without the need for soldering
-##
 
+## 🚀 Screenshot
 https://github.com/user-attachments/assets/f3d76072-9ba0-493f-983c-41b21ab41bbb
+
+## 📄 Top Contribuitor & License
+
+<img src="https://avatars.githubusercontent.com/u/144074554?v=4"
+     style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid red; object-fit: cover;"
+     alt="Avatar">
+
+Distributed under the [MIT License](https://opensource.org/licenses/MIT)
 
