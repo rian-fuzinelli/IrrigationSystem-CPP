@@ -27,7 +27,7 @@
 -  Resistors: Protect the components and ensure the proper functioning of the circuit.
 
 -  Small Breadboard: Used to connect all the components without the need for soldering
-
+-  
 ## 🚀 Screenshot
 https://github.com/user-attachments/assets/f3d76072-9ba0-493f-983c-41b21ab41bbb
 
